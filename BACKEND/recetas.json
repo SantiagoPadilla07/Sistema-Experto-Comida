@@ -1,0 +1,688 @@
+{
+  "Pancakes con Frutas": {
+    "momento": "desayuno",
+    "proteina": "huevo",
+    "complemento": "fruta",
+    "sabor": "dulce",
+    "calificacion_salud": 3,
+    "preparacion": {
+      "pasos": [
+        "1. En un bol, mezcla 1 taza de harina, 1 huevo, 1/2 taza de leche, 1 cucharadita de polvo de hornear y una pizca de sal.",
+        "2. Cocina la mezcla en una sartén caliente con un poco de mantequilla, formando pequeñas pancakes.",
+        "3. Sirve las pancakes con miel por encima y acompáñalas con frutas frescas como fresas y plátano."
+      ],
+      "tiempo_estimado": "15 minutos",
+      "utensilios": ["sartén", "bol", "espátula", "cuchillo"],
+      "consejos": [
+        "Puedes añadir chispas de chocolate o nueces a la mezcla para darles más sabor."
+      ]
+    }
+  },
+  "Tamal": {
+    "momento": "desayuno",
+    "proteina": "pollo",
+    "complemento": "arroz",
+    "sabor": "salado",
+    "calificacion_salud": 2,
+    "preparacion": {
+      "pasos": [
+        "1. Mezcla la masa de maíz con caldo de pollo, sal y especias.",
+        "2. Rellena las hojas de plátano con la mezcla de masa, añadiendo carne de pollo o cerdo y algunos trozos de papa y zanahoria.",
+        "3. Envuelve las hojas de plátano y amárralas bien.",
+        "4. Cocina los tamales en una olla con agua hirviendo durante 1.5 horas.",
+        "5. Sirve caliente."
+      ],
+      "tiempo_estimado": "1.5 horas",
+      "utensilios": ["olla", "hojas de plátano", "cuchillo", "cucharón"],
+      "consejos": [
+        "Puedes agregar almendras o pasas al tamal para darle un toque especial.",
+        "Asegúrate de amarrar bien las hojas de plátano para evitar que se abran durante la cocción."
+      ]
+    }
+  },
+  "Lechona": {
+    "momento": "desayuno",
+    "proteina": "carne",
+    "complemento": "arroz",
+    "sabor": "salado",
+    "calificacion_salud": 1,
+    "preparacion": {
+      "pasos": [
+        "1. Limpia y sazona el cerdo con sal, pimienta, comino, paprika y ajo.",
+        "2. Coloca la carne en un horno precalentado a 180°C. Cocina durante 3-4 horas hasta que esté bien cocida y tierna. Asegúrate de bañar la carne con su propio jugo cada 30 minutos.",
+        "3. En una olla, sofríe la cebolla, el ajo y las arvejas. Añade el arroz y cocina con agua hasta que el arroz esté listo.",
+        "4. Sirve una porción de arroz con la carne de cerdo, añadiendo un poco de jugo de la carne encima."
+      ],
+      "tiempo_estimado": "4 horas",
+      "utensilios": ["horno", "sartén", "olla", "cuchillo"],
+      "consejos": [
+        "Puedes acompañar la lechona con arepas y ensaladas frescas.",
+        "Para una versión más jugosa, rocía el cerdo con jugo de naranja mientras lo cocinas."
+      ]
+    }
+  },
+  "Huevos con Salchicha": {
+    "momento": "desayuno",
+    "proteina": "huevo",
+    "complemento": "tostadas",
+    "sabor": "salado",
+    "calificacion_salud": 2,
+    "preparacion": {
+      "pasos": [
+        "1. Cocina las salchichas en una sartén hasta que estén doradas.",
+        "2. Bate los huevos y cocínalos revueltos en la misma sartén o en una sartén aparte.",
+        "3. Tuesta unas rebanadas de pan y acompáñalas con mantequilla.",
+        "4. Sirve los huevos con las salchichas y las tostadas."
+      ],
+      "tiempo_estimado": "10 minutos",
+      "utensilios": ["sartén", "tostadora", "cuchillo"],
+      "consejos": [
+        "Puedes añadir salsa de tomate o mostaza a las salchichas para más sabor."
+      ]
+    }
+  },
+ "Caldo de pescado con yuca": {
+    "momento": "desayuno",
+    "proteina": "pescado",
+    "complemento": "yuca",
+    "sabor": "salado",
+    "calificacion_salud": 4,
+    "preparacion": {
+      "pasos": [
+        "1. Cocina yuca y plátano en agua con sal hasta que estén blandos.",
+        "2. Agrega pescado (como mojarra o bagre) en trozos y cebolla, ajo, y cilantro.",
+        "3. Cocina a fuego medio hasta que el pescado esté bien cocido.",
+        "4. Sirve caliente, ideal con arroz o arepa."
+      ],
+      "tiempo_estimado": "40 minutos",
+      "utensilios": ["olla", "cuchillo", "cucharón"],
+      "consejos": [
+        "El pescado debe limpiarse bien antes de cocinar.",
+        "Agrega limón y ají al gusto para potenciar el sabor."
+      ]
+    }
+},
+  "Bandeja Paisa": {
+    "momento": "almuerzo",
+    "tipo_comida": "ct",
+    "proteina": "carne",
+    "complemento": ["arroz", "platano", "aguacate"],
+    "granos": ["frijoles"],
+    "sabor": "salado",
+    "calificacion_salud": 1,
+    "preparacion": {
+      "pasos": [
+        "1. Cocina los frijoles con ajo, cebolla, y laurel durante 1 hora o hasta que estén suaves.",
+        "2. Cocina el arroz en una olla con agua y un poco de sal durante 15 minutos.",
+        "3. Fríe la carne hasta que esté bien dorada por ambos lados (aproximadamente 7-10 minutos por lado).",
+        "4. Fríe los plátanos hasta que estén dorados y crujientes.",
+        "5. Cocina los huevos al gusto (fritos o revueltos).",
+        "6. Sirve todo en un plato grande y acompáñalo con aguacate en rodajas."
+      ],
+      "tiempo_estimado": "45 minutos",
+      "utensilios": ["olla grande", "sartén", "cuchillo", "plato grande"],
+      "consejos": [
+        "Puedes agregar más condimentos al gusto como pimienta o comino.",
+        "Si prefieres una variante más ligera, puedes usar arroz integral o reemplazar la carne con pollo."
+      ]
+    }
+  },
+  "Ajiaco Colombiano": {
+    "momento": "almuerzo",
+    "tipo_comida":"ct",
+    "proteina": "pollo",
+    "complemento": ["papas", "mazorca", "guascas", "crema de leche", "alcaparras"],
+    "sabor": "salado",
+    "calificacion_salud": 4,
+    "preparacion": {
+      "pasos": [
+        "1. Cocinar el pollo con papas, cebolla, ajo y guascas en caldo hasta que las papas estén blandas.",
+        "2. Retirar el pollo, desmechar y devolver al caldo.",
+        "3. Añadir mazorca y cocinar hasta que esté tierna.",
+        "4. Servir con crema de leche, alcaparras y aguacate al gusto."
+      ],
+      "tiempo_estimado": "1 hora 30 minutos",
+      "utensilios": ["olla grande", "cuchillo", "cucharón"],
+      "consejos": [
+        "Utiliza diferentes tipos de papa para una textura más rica."
+      ]
+    }
+  },
+  "Pollo con Arroz y Papas": {
+    "momento": "almuerzo",
+    "tipo_comida": "ct",
+    "proteina": "pollo",
+    "complemento": ["arroz", "papas", "ensalada"],
+    "granos": "frijoles",
+    "sabor": "salado",
+    "calificacion_salud": 3,
+    "preparacion": {
+      "pasos": [
+        "1. Cocina el arroz con agua y sal durante 15 minutos.",
+        "2. Fríe las papas hasta que estén doradas y crujientes.",
+        "3. Cocina el pollo a la plancha hasta que esté dorado por ambos lados.",
+        "4. Sirve el pollo con arroz, papas y ensalada."
+      ],
+      "tiempo_estimado": "30 minutos",
+      "utensilios": ["sartén", "olla", "cuchillo", "plato"],
+      "consejos": [
+        "Puedes agregar más condimentos al gusto como pimienta o comino.",
+        "Si prefieres una variante más ligera, puedes usar arroz integral."
+      ]
+    }
+  },
+  "Pescado con Arroz y Yuca": {
+    "momento": "almuerzo",
+    "tipo_comida": "ct",
+    "proteina": "pescado",
+    "complemento": ["arroz", "yuca"],
+    "granos": "garbanzos",
+    "sabor": "salado",
+    "calificacion_salud": 3,
+    "preparacion": {
+      "pasos": [
+        "1. Cocina el arroz con agua y sal durante 15 minutos.",
+        "2. Cocina la yuca en agua hirviendo hasta que esté blanda.",
+        "3. Cocina el pescado a la plancha con limón y especias al gusto.",
+        "4. Sirve el pescado con arroz y yuca."
+      ],
+      "tiempo_estimado": "30 minutos",
+      "utensilios": ["sartén", "olla", "cuchillo", "plato"],
+      "consejos": [
+        "Puedes acompañar el plato con una salsa de ajo o una ensalada fresca."
+      ]
+    }
+  },
+"Carne con Papas y Ensalada": {
+  "momento": "almuerzo",
+  "tipo_comida": "ct",
+  "proteina": "carne",
+  "complemento": ["papas", "ensalada", "yuca"],
+  "granos": "lentejas",
+  "sabor": "salado",
+  "calificacion_salud": 3,
+  "preparacion": {
+    "pasos": [
+      "1. Cocina las lentejas con agua y sal durante 20 minutos.",
+      "2. Fríe las papas hasta que estén doradas y crujientes.",
+      "3. Cocina la carne a la plancha hasta que esté dorada por ambos lados.",
+      "4. Sirve la carne con papas, ensalada y yuca."
+    ],
+    "tiempo_estimado": "35 minutos",
+    "utensilios": ["sartén", "olla", "cuchillo", "plato"],
+    "consejos": [
+      "Puedes agregar más condimentos al gusto como pimienta o ajo.",
+      "Si prefieres una variante más ligera, puedes usar arroz integral."
+    ]
+  }
+},
+"Arroz Atollado": {
+    "momento": "almuerzo",
+    "tipo_comida":"ct",
+    "proteina":  "cerdo",
+    "complemento": ["arroz", "verduras"],
+    "sabor": "salado",
+    "calificacion_salud": 3,
+    "preparacion": {
+      "pasos": [
+        "1. Cocina pollo y carne de cerdo con cebolla, ajo y condimentos.",
+        "2. Agrega arroz, papa criolla, arvejas y suficiente agua para que quede meloso.",
+        "3. Cocina a fuego medio hasta que el arroz esté tierno.",
+        "4. Ajusta sal y sirve caliente."
+      ],
+      "tiempo_estimado": "1 hora 30 minutos",
+      "utensilios": ["olla", "cuchillo", "cucharón"],
+      "consejos": [
+        "Remueve con frecuencia para evitar que se pegue."
+      ]
+    }
+},
+  "Cazuela de Mariscos": {
+    "momento": "almuerzo",
+    "tipo_comida":"ct",
+    "proteina": "mariscos",
+    "complemento": "patacones",
+    "sabor": "salado",
+    "calificacion_salud": 4,
+    "preparacion": {
+      "pasos": [
+        "1. Sofríe cebolla, ajo, pimentón y tomate.",
+        "2. Agrega leche de coco, crema de leche y los mariscos limpios.",
+        "3. Cocina a fuego medio hasta que espese.",
+        "4. Sirve caliente con arroz blanco y patacones."
+      ],
+      "tiempo_estimado": "1 hora",
+      "utensilios": ["olla", "sartén", "cuchillo"],
+      "consejos": [
+        "Puedes agregar queso costeño rallado encima antes de servir."
+      ]
+    }
+},
+  "Sushi": {
+  "momento": "cena",
+  "tipo_comida": "ci",
+  "proteina": "pescado",
+  "complemento": ["aguacate", "alga", "arroz"],
+  "sabor": "salado",
+  "calificacion_salud": 4,
+  "preparacion": {
+    "pasos": [
+      "1. Cocina el arroz de sushi siguiendo las instrucciones del paquete y déjalo enfriar.",
+      "2. Corta el salmón y el aguacate en tiras delgadas.",
+      "3. Coloca una hoja de alga nori sobre una esterilla para sushi, unta el arroz y coloca las tiras de salmón y aguacate en el centro.",
+      "4. Enrolla el sushi usando la esterilla y corta en piezas.",
+      "5. Sirve con salsa de soja."
+    ],
+    "tiempo_estimado": "30 minutos",
+    "utensilios": ["esterilla para sushi", "cuchillo", "cuenco para arroz"],
+    "consejos": [
+      "Puedes añadir pepino o zanahoria en tiras como complemento.",
+      "Asegúrate de mojar el cuchillo antes de cortar para que el arroz no se quede pegado."
+    ]
+  }
+},
+"Hamburguesa con Papas": {
+  "momento": "cena",
+  "tipo_comida": "cr",
+  "proteina": "carne",
+  "complemento": ["pan", "lechuga", "tomate", "queso"],
+  "sabor": "salado",
+  "calificacion_salud": 2,
+  "preparacion": {
+    "pasos": [
+      "1. Forma las hamburguesas con carne molida, sal y pimienta.",
+      "2. Cocina las hamburguesas en una sartén o parrilla hasta que estén bien cocidas.",
+      "3. Tuesta el pan y coloca las hamburguesas, lechuga, tomate y queso.",
+      "4. Fría las papas cortadas en bastones hasta que estén doradas.",
+      "5. Sirve la hamburguesa con las papas fritas."
+    ],
+    "tiempo_estimado": "25 minutos",
+    "utensilios": ["sartén o parrilla", "olla", "cuchillo", "plato"],
+    "consejos": [
+      "Puedes añadir mayonesa o ketchup para darle un toque extra.",
+      "Si prefieres, usa queso cheddar o suizo para las hamburguesas."
+    ]
+  }
+},
+"Perro Caliente con Papas": {
+  "momento": "cena",
+  "tipo_comida": "cr",
+  "proteina": "salchicha",
+  "complemento": ["pan", "papas"],
+  "sabor": "salado",
+  "calificacion_salud": 2,
+  "preparacion": {
+    "pasos": [
+      "1. Cocina las salchichas en agua caliente o a la parrilla.",
+      "2. Coloca las salchichas dentro de los panes para hot dog.",
+      "3. Añade ketchup, mostaza y otros condimentos al gusto.",
+      "4. Fría las papas en aceite hasta que estén doradas y crujientes.",
+      "5. Sirve los perros calientes con las papas fritas."
+    ],
+    "tiempo_estimado": "20 minutos",
+    "utensilios": ["olla o parrilla", "sartén", "plato", "cuchillo"],
+    "consejos": [
+      "Puedes añadir cebolla caramelizada o salsa de queso.",
+      "Si deseas, puedes agregar guacamole como complemento."
+    ]
+  }
+},
+"Pizza Casera de Jamon y Queso": {
+  "momento": "cena",
+  "tipo_comida": "ct",
+  "proteina": "jamon",
+  "complemento": ["tomate", "queso"],
+  "sabor": "salado",
+  "calificacion_salud": 2,
+  "preparacion": {
+    "pasos": [
+      "1. Precalienta el horno a 220°C.",
+      "2. Extiende la masa para pizza sobre una bandeja enharinada.",
+      "3. Unta una capa de salsa de tomate sobre la masa y cubre con queso mozzarella rallado.",
+      "4. Coloca las rodajas de pepperoni sobre la pizza.",
+      "5. Hornea durante 12-15 minutos hasta que la masa esté dorada y el queso derretido.",
+      "6. Sirve la pizza caliente."
+    ],
+    "tiempo_estimado": "25 minutos",
+    "utensilios": ["horno", "bandeja para hornear", "cuchillo", "espátula"],
+    "consejos": [
+      "Puedes agregar otros ingredientes como champiñones, aceitunas o pimientos.",
+      "Asegúrate de no sobrecargar la pizza con salsa para evitar que quede demasiado húmeda."
+    ]
+  }
+},
+  "Tacos Colombianos": {
+    "momento": "cena",
+    "tipo_comida":"cr",
+    "proteina": ["carne", "pollo", "queso"],
+    "complemento": ["tortilla de maíz", "lechuga", "tomate", "salsa"],
+    "sabor": "salado",
+    "calificacion_salud": 1,
+    "preparacion": {
+      "pasos": [
+        "1. Cocina la carne o pollo con especias al gusto.",
+        "2. Calienta las tortillas de maíz.",
+        "3. Coloca la proteína en la tortilla, agrega lechuga, tomate y salsa.",
+        "4. Enrolla y sirve."
+      ],
+      "tiempo_estimado": "20 minutos",
+      "utensilios": ["sartén", "cuchillo"],
+      "consejos": [
+        "Puedes añadir queso rallado o guacamole para más sabor."
+      ]
+    }
+  },
+  "Salchipapa": {
+    "momento": "cena",
+    "tipo_comida":"cr",
+    "proteina": ["salchicha"],
+    "complemento": ["papas", "salsas variadas", "queso"],
+    "sabor": "salado",
+    "calificacion_salud": 2,
+    "preparacion": {
+      "pasos": [
+        "1. Fríe papas cortadas en bastones hasta que estén doradas.",
+        "2. Fríe las salchichas cortadas en rodajas.",
+        "3. Mezcla papas y salchichas en un plato.",
+        "4. Agrega salsas al gusto y queso rallado encima.",
+        "5. Sirve inmediatamente."
+      ],
+      "tiempo_estimado": "25 minutos",
+      "utensilios": ["sartén", "cuchillo", "plato"],
+      "consejos": [
+        "Para un toque especial, añade huevo frito encima."
+      ]
+    }
+  },
+  "Burritos Colombianos": {
+    "momento": "cena",
+    "tipo_comida":"cr",
+    "proteina": ["carne", "pollo", "queso", "huevo"],
+    "complemento": ["tortilla de harina", "arroz", "frijoles", "lechuga", "tomate", "salsa"],
+    "sabor": "salado",
+    "calificacion_salud": 2,
+    "preparacion": {
+      "pasos": [
+        "1. Cocina la proteína elegida con especias.",
+        "2. Calienta la tortilla de harina.",
+        "3. Coloca arroz, frijoles, proteína, lechuga, tomate y salsa en la tortilla.",
+        "4. Enrolla la tortilla cerrando los extremos.",
+        "5. Calienta ligeramente el burrito en sartén para que quede compacto.",
+        "6. Sirve caliente."
+      ],
+      "tiempo_estimado": "30 minutos",
+      "utensilios": ["sartén", "cuchillo", "plato"],
+      "consejos": [
+        "Puedes agregar aguacate para un sabor más cremoso."
+      ]
+    }
+  },
+  "Mazorcada": {
+    "momento": "cena",
+    "proteina": ["carne","pollo"],
+    "tipo_comida":"cr",
+    "complemento": ["maíz tierno", "azúcar", "leche", "huevos", "canela", "esencia de vainilla"],
+    "sabor": "dulce",
+    "calificacion_salud": 3,
+    "preparacion": {
+      "pasos": [
+        "1. Cocina el maíz tierno hasta que esté blando y escúrrelo.",
+        "2. Licúa el maíz con leche, azúcar, huevos, canela y esencia de vainilla hasta obtener una mezcla homogénea.",
+        "3. Vierte la mezcla en moldes individuales o en una fuente para horno.",
+        "4. Hornea a 180°C durante 40-50 minutos o hasta que la mazorcada cuaje y dore ligeramente.",
+        "5. Deja enfriar antes de servir."
+      ],
+      "tiempo_estimado": "1 hora",
+      "utensilios": ["olla", "licuadora", "molde para horno", "horno"],
+      "consejos": [
+        "Puedes espolvorear un poco de canela en polvo al servir para darle más aroma.",
+        "Si no tienes horno, puedes cocinar la mezcla al baño María en la estufa."
+      ]
+    }
+  },
+  "arepa_de_huevo": {
+  "momento": "onces",
+  "proteina": "huevo",
+  "complemento": "harina",
+  "sabor": "salado",
+  "temperatura": "caliente",
+  "calificacion_salud": 3,
+  "preparacion": {
+    "pasos": [
+      "1. Mezcla la harina con el huevo.",
+      "2. Forma la masa en pequeñas bolas y aplánalas.",
+      "3. Fría la masa en una sartén hasta que esté dorada.",
+      "4. Abre las arepas y rellénalas con queso.",
+      "5. Sirve caliente."
+    ],
+    "tiempo_estimado": "20 minutos",
+    "utensilios": ["sartén", "tazones", "cuchillo"],
+    "consejos": [
+      "Puedes añadir cebolla o pimentón para darle un toque especial."
+    ]
+  }
+},
+  "arepa_con_queso": {
+  "momento": "onces",
+  "proteina": ["queso"],
+  "complemento": "harina",
+  "sabor": "salado",
+  "temperatura": "caliente",
+  "calificacion_salud": 3,
+  "preparacion": {
+    "pasos": [
+      "1. Mezcla la harina con agua hasta formar una masa.",
+      "2. Forma la masa en pequeñas bolas y aplánalas.",
+      "3. Cocina las arepas en una sartén con un poco de mantequilla.",
+      "4. Rellena las arepas con queso y sirve caliente.",
+      "5. Puedes acompañarlas con café o jugo."
+    ],
+    "tiempo_estimado": "20 minutos",
+    "utensilios": ["sartén", "tazones", "cuchillo"],
+    "consejos": [
+      "Añadir mantequilla al queso para una textura más cremosa."
+    ]
+  }
+},
+"Chocolate Caliente con Queso": {
+    "momento": "onces",
+    "proteina": "leche",
+    "complemento": "chocolate",
+    "sabor": "dulce",
+    "temperatura":"caliente",
+    "calificacion_salud": 4,
+    "preparacion": {
+      "pasos": [
+        "1. Calienta la leche en una olla sin que llegue a hervir.",
+        "2. Agrega el chocolate para derretir y mezcla hasta obtener una mezcla homogénea.",
+        "3. Añade azúcar al gusto.",
+        "4. Sirve caliente acompañado con trozos de queso blanco para agregar al chocolate."
+      ],
+      "tiempo_estimado": "10 minutos",
+      "utensilios": ["olla", "cuchara", "tazas"],
+      "consejos": ["El queso se derrite y da un sabor especial al chocolate caliente."]
+    } 
+},
+"sandwich_de_pollo": {
+  "momento": "onces",
+  "proteina": "pollo",
+  "complemento": "pan",
+  "sabor": "salado",
+  "temperatura": "caliente",
+  "calificacion_salud": 3,
+  "preparacion": {
+    "pasos": [
+      "1. Tuesta las rebanadas de pan integral.",
+      "2. Corta el aguacate en rodajas y coloca sobre una rebanada de pan.",
+      "3. Añade tomate y queso a gusto.",
+      "4. Cierra el sandwich y sirve."
+    ],
+    "tiempo_estimado": "10 minutos",
+    "utensilios": ["tostadora", "cuchillo"],
+    "consejos": [
+      "Puedes añadir un poco de mayonesa o mostaza para más sabor."
+    ]
+  }
+},
+  "torta_de_platanos": {
+  "momento": "onces",
+  "proteina": "huevo",
+  "complemento": ["platano", "harina", "azúcar"],
+  "sabor": "dulce",
+  "temperatura": "caliente",
+  "calificacion_salud": 4,
+  "preparacion": {
+    "pasos": [
+      "1. Precalienta el horno a 180°C.",
+      "2. Tritura los plátanos maduros.",
+      "3. Mezcla los plátanos con la harina, el azúcar y otros ingredientes.",
+      "4. Vierte la mezcla en un molde y hornea durante 40 minutos.",
+      "5. Deja enfriar antes de servir."
+    ],
+    "tiempo_estimado": "50 minutos",
+    "utensilios": ["horno", "molde", "tazones"],
+    "consejos": [
+      "Puedes añadir nueces o chispas de chocolate para más sabor."
+    ]
+  }
+},
+"empanada_de_carne": {
+  "momento": "onces",
+  "proteina": "carne",
+  "complemento": ["harina", "arroz"],
+  "sabor": "salado",
+  "temperatura": "caliente",
+  "calificacion_salud": 2,
+  "preparacion": {
+    "pasos": [
+      "1. Prepara el relleno de carne con cebolla, ajo, comino y sal.",
+      "2. Extiende la masa y corta círculos pequeños.",
+      "3. Coloca el relleno de carne en el centro de cada círculo de masa.",
+      "4. Dobla la masa y sella los bordes.",
+      "5. Fría las empanadas en aceite caliente hasta que estén doradas.",
+      "6. Sirve caliente con una bebida natural."
+    ],
+    "tiempo_estimado": "30 minutos",
+    "utensilios": ["sartén", "rodillo", "cuchillo"],
+    "consejos": [
+      "Puedes acompañar con salsa de ají o guacamole."
+    ]
+  }
+},
+"pastel_de_pollo": {
+  "momento": "onces",
+  "proteina": "pollo",
+  "complemento": "harina",
+  "sabor": "salado",
+  "temperatura": "caliente",
+  "calificacion_salud": 3,
+  "preparacion": {
+    "pasos": [
+      "1. Cocina el pollo y desmenúzalo.",
+      "2. Mezcla el pollo con vegetales, especias y un poco de caldo.",
+      "3. Extiende la masa en un molde y coloca el relleno.",
+      "4. Cubre con otra capa de masa y sella los bordes.",
+      "5. Hornea a 180°C durante 30 minutos o hasta que esté dorado.",
+      "6. Deja enfriar antes de servir."
+    ],
+    "tiempo_estimado": "40 minutos",
+    "utensilios": ["horno", "molde", "cuchillo"],
+    "consejos": [
+      "Puedes añadir un toque de queso rallado al relleno para más sabor."
+    ]
+  }
+},
+  "Buñuelos": {
+    "momento": "onces",
+    "proteina": "queso",
+    "complemento": ["harina de trigo", "almidón de yuca", "huevo", "azúcar", "polvo de hornear", "leche"],
+    "sabor": "salado",
+    "temperatura":"caliente",
+    "calificacion_salud": 3,
+    "preparacion": {
+      "pasos": [
+        "1. Mezcla la harina de trigo con el almidón de yuca y el polvo de hornear.",
+        "2. Agrega el queso rallado y mezcla bien.",
+        "3. Incorpora el huevo y la leche poco a poco hasta formar una masa suave.",
+        "4. Forma bolitas con la masa.",
+        "5. Fríe las bolitas en aceite caliente hasta que estén doradas y crujientes.",
+        "6. Escurre sobre papel absorbente y sirve calientes."
+      ],
+      "tiempo_estimado": "40 minutos",
+      "utensilios": ["bowl", "sartén", "espumadera", "papel absorbente"],
+      "consejos": [
+        "El queso debe ser un queso costeño o queso fresco para darle buen sabor.",
+        "Puedes acompañarlos con una taza de chocolate caliente para onces."
+      ]
+    }
+},
+  "Ensalada de frutas": {
+    "momento": "onces",
+    "proteina": "",
+    "complemento": ["banana", "manzana", "piña", "fresas", "naranja"],
+    "sabor": "dulce",
+    "temperatura": "frio",
+    "calificacion_salud": 5,
+    "preparacion": {
+      "pasos": [
+        "1. Lava y pela las frutas según sea necesario.",
+        "2. Corta todas las frutas en cubos o rodajas pequeñas.",
+        "3. Mezcla todas las frutas en un bowl grande.",
+        "4. Opcional: añade un poco de jugo de limón para evitar que se oxiden.",
+        "5. Refrigera por 30 minutos antes de servir."
+      ],
+      "tiempo_estimado": "15 minutos",
+      "utensilios": ["cuchillo", "bowl", "cuchara"],
+      "consejos": [
+        "Usa frutas frescas y de temporada para mejor sabor.",
+        "Puedes añadir un poco de yogur natural para proteína extra."
+      ]
+    }
+},
+  "Banana split": {
+    "momento": "onces",
+    "proteina": "leche",
+    "complemento": ["banana", "helado", "sirope de chocolate", "fresas", "nueces"],
+    "sabor": "dulce",
+    "temperatura": "frio",
+    "calificacion_salud": 3,
+    "preparacion": {
+      "pasos": [
+        "1. Pela la banana y córtala a lo largo en dos mitades.",
+        "2. Coloca las mitades de banana en un plato.",
+        "3. Añade bolas de helado entre las mitades de banana.",
+        "4. Decora con sirope de chocolate, fresas y nueces al gusto.",
+        "5. Sirve inmediatamente."
+      ],
+      "tiempo_estimado": "10 minutos",
+      "utensilios": ["plato", "cuchillo", "cucharas"],
+      "consejos": [
+        "Elige helado de buena calidad para mejor sabor.",
+        "Puedes sustituir las nueces por almendras o chispas de chocolate."
+      ]
+    }
+  },
+  "Cerezada con limón": {
+    "momento": "onces",
+    "proteina": "",
+    "complemento": ["cereza", "limón", "azúcar", "agua"],
+    "sabor": "dulce",
+    "temperatura": "frio",
+    "calificacion_salud": 3,
+    "preparacion": {
+      "pasos": [
+        "1. Si usas cerezas frescas, lávalas y deshuésalas.",
+        "2. En un vaso, mezcla jugo de limón con azúcar al gusto.",
+        "3. Añade las cerezas y un poco de agua con hielo.",
+        "4. Revuelve bien y sirve frío.",
+        "5. Opcional: añade hojas de menta para decorar."
+      ],
+      "tiempo_estimado": "5 minutos",
+      "utensilios": ["vaso", "cuchara", "cuchillo"],
+      "consejos": [
+        "Ajusta el azúcar según el dulzor natural de las cerezas.",
+        "Es una bebida refrescante ideal para tardes calurosas."
+      ]
+    }
+  }
+}

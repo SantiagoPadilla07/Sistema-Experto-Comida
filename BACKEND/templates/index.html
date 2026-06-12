@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Generador de Recetas Interactivo</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='estilos.css') }}" />
+</head>
+<body data-jornada="">
+  <div class="container">
+    <h1>Generador de Recetas</h1>
+
+    <label for="jornada">Selecciona la jornada del día:</label>
+    <select id="jornada">
+      <option value="">-- Elegir --</option>
+      <option value="desayuno">Desayuno</option>
+      <option value="almuerzo">Almuerzo</option>
+      <option value="cena">Cena</option>
+      <option value="onces">Onces</option>
+    </select>
+
+    <div id="pregunta-container"></div>
+
+    <div id="resumen-container" style="display:none;">
+      <h3>Respuestas hasta ahora:</h3>
+      <ul id="resumen-lista"></ul>
+    </div>
+
+    <button id="btn-generar" style="display:none;">Generar Receta</button>
+    <button id="btn-limpiar" style="display:none; margin-left: 10px;">Limpiar</button>
+
+    <div id="receta-final"></div>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
